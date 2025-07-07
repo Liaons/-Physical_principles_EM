@@ -74,11 +74,10 @@ If you use this repository, please cite it as follows:
 @misc{leao2025_principios_fisicos_em,
   author       = {Henrique Leão and Manoel de Jesus de Souza Miranda and Marcus Vinicius Gonçalves da Silva and Savanah Franco de Freitas},
   title        = {Princípios Físicos da Resposta Espectral – PGSER/INPE},
-  howpublished = {GitHub},
+  howpublished = {GitHub - https://github.com/Liaons/-Physical_principles_EM},
   year         = {2025},
-  url          = {https://github.com/Liaons/-Physical_principles_EM},
+  url          = {https://doi.org/10.5281/zenodo.15832260},
   note         = {Version 1.0. Licensed under CC BY-NC 4.0}
-  DOI          = {10.5281/zenodo.15832260}
 }
 ```
 
