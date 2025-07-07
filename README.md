@@ -78,6 +78,7 @@ If you use this repository, please cite it as follows:
   year         = {2025},
   url          = {https://github.com/Liaons/-Physical_principles_EM},
   note         = {Version 1.0. Licensed under CC BY-NC 4.0}
+  DOI          = {10.5281/zenodo.15832260}
 }
 ```
 
