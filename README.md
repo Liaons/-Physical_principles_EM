@@ -57,7 +57,7 @@ jupyter lab notebooks/
 | ---------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Henrique Leão**                  | 0000-0002-6595-9576 | [paulo.leao@inpe.br](mailto:paulo.leao@inpe.br) / [Henri.leaos@gmail.com](mailto:Henri.leaos@gmail.com) |
 | Manoel de Jesus de Souza Miranda   | –                   | –                                                                                                       |
-| Marcus Vinicius Gonçalves da Silva | –                   | –                                                                                                       |
+| Marcus Vinicius Gonçalves da Silva | 0009-0001-9904-9001 | [marcus.silva@inpe.br](mailto:marcus.silva@inpe.br)                                                     |
 | Savanah Franco de Freitas          | –                   | –                                                                                                       |
 
 ## 📄 Licença / License
